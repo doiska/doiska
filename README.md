@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**doiska/doiska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Pedro, mas meus amigos me chamam de doiská. Sou desenvolvedor autodidata há ~4 anos. Atualmente desenvolvo profissionalmente, mas mantive durante muito tempo como hobbie.
+ Além da vasta habilidade com pesquisas, sou proativo e busco sempre constância no aprendizado.
 
-Here are some ideas to get you started:
+- Idade: 19 anos
+- Experiência profissional: atualmente desenvolvendo fulltime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 O que estou trabalhando
+ - Discord BOT para reprodução e download de músicas sem YT API
+
+### 📖 O que estou estudando
+ - IFood API
+ - Angular
+
+### 🤖 Tecnologias
+ - Desenvolvimento backend utilizando **Laravel**, **NodeJS**, **Express** e **Lua**;
+ - Desenvolvimento frontend utilizando **Bootstrap**, **React** e **TailwindCSS**;
+ - Ferramentas que eu utilizo: **Docker**, **GitHub**, **Trello**.
+ 
+### 💃 O que quero aprender
+ - React Native
+ - VueJS
+
+### ⚡ Curiosidades
+ - Meus servidores de Minecraft (2016) tiveram um total de 400 conexões simultâneas;
+ - **Meu primeiro contato com programação foi aos 13 anos com Java e depois C# com a Unity Game Engine.**;
+
+-> https://github.com/HugoJF/
