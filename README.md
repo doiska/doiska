@@ -12,13 +12,18 @@
  - NextJS
 
 ### 🤖 Tecnologias
- - Desenvolvimento backend utilizando **Laravel**, **Express** e **Lua**;
+ - Desenvolvimento backend utilizando **Laravel**, **Express**, **SvelteKit** e **Lua**;
  - Desenvolvimento frontend utilizando **Bootstrap**, **React**, **Svelte** e **TailwindCSS**;
  - Ferramentas que eu utilizo: **Docker**, **GitHub**, **Notion**.
- - Conhecimentos extras: **iFood API**, **Rappi API**
+ - Conhecimentos extras: **iFood API**, **Rappi API**, **FiveM**, **AltV**.
  
 ### 💃 O que quero aprender
  - NextJS
+
+### 📰 Projetos públicos
+
+- Twokei: Bot de Música para o Discord que consome a Tiktube-API. Totalmente desenvolvido em TypeScript. Convide-o: [Discord Invite](https://discord.com/api/oauth2/authorize?client_id=926580642798534666&permissions=37088600&scope=bot%20applications.commands)
+- [Tiktube-API](https://github.com/doiska/Tiktube-API): Rest API para scrapping de dados de vídeos em mais de 1000 plataformas.
 
 ### ⚡ Curiosidades
  - Meus servidores de Minecraft (2016) tiveram um total de 400 conexões simultâneas;
