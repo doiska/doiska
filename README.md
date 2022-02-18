@@ -22,8 +22,8 @@
 ### 📰 Projetos públicos
 
 - Twokei: Bot de Música para o Discord que consome a Tiktube-API. Totalmente desenvolvido em TypeScript. Convide-o: [Discord Invite](https://discord.com/api/oauth2/authorize?client_id=926580642798534666&permissions=37088600&scope=bot%20applications.commands)
-- [Tiktube-API](https://github.com/doiska/Tiktube-API): Rest API para scrapping de dados de vídeos em mais de 1000 plataformas.
 - [Twokei Framework](https://github.com/doiska/twokei-framework/tree/main/src/client): Framework para a nova versão do Discord.JS, ainda em desenvolvimento.
+- [Tiktube-API](https://github.com/doiska/Tiktube-API): Rest API para scrapping de dados de vídeos em mais de 1000 plataformas.
 
 ### ⚡ Curiosidades
  - Meus servidores de Minecraft (2016) tiveram um total de 400 conexões simultâneas;
