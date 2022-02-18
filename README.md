@@ -6,7 +6,9 @@
 - Experiência profissional: atualmente desenvolvendo fulltime.
 
 ### 🔭 O que estou trabalhando
+ - Plataforma para venda de cursos
  - Discord BOT para reprodução e download de músicas sem YT API
+ - Discord.JS@v14 Framework
 
 ### 📖 O que estou estudando
  - NextJS
@@ -16,9 +18,6 @@
  - Desenvolvimento frontend utilizando **Bootstrap**, **React**, **Svelte** e **TailwindCSS**;
  - Ferramentas que eu utilizo: **Docker**, **GitHub**, **Notion**.
  - Conhecimentos extras: **iFood API**, **Rappi API**, **FiveM**, **AltV**.
- 
-### 💃 O que quero aprender
- - NextJS
 
 ### 📰 Projetos públicos
 
