@@ -1,6 +1,6 @@
 ### Olá 👋
 
- Meu nome é Pedro, mas meus amigos me chamam de doiská. Sou desenvolvedor autodidata há ~4 anos. Atualmente desenvolvo profissionalmente, mas mantive durante muito tempo como hobbie.
+ Meu nome é Pedro, mas meus amigos me chamam de doiská. Sou desenvolvedor autodidata há ~4 anos. Atualmente desenvolvo profissionalmente, mas mantive durante muito tempo como hobby.
 
 - Idade: 19 anos
 - Experiência profissional: atualmente desenvolvendo fulltime.
