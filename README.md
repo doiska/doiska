@@ -7,8 +7,8 @@
 
 ### 🔭 O que estou trabalhando
  - Plataforma para venda de cursos
- - Discord BOT para reprodução e download de músicas sem YT API
  - Discord.JS@v14 Framework
+ - Sistemas para FiveM
 
 ### 📖 O que estou estudando
  - NextJS
