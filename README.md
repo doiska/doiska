@@ -8,7 +8,8 @@
 ### 🔭 O que estou trabalhando
  - Plataforma para venda de cursos
  - Discord.JS@v14 Framework
- - Sistemas para FiveM
+ - Celular para FiveM
+ - Servidor para FiveM
 
 ### 📖 O que estou estudando
  - NextJS
