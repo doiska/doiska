@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
-* 🖥️  See my portfolio at [Twokei Website](http://twokei.store)
+* 🖥️  See my portfolio at [Twokei Website](http://twokei.website)
 * ✉️  You can contact me at [contato.pedrohenriquelopes@gmail.com](mailto:contato.pedrohenriquelopes@gmail.com)
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Discord Bots, Genshin Data Scraping
