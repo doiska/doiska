@@ -4,7 +4,7 @@ Hi 👋 My name is Pedro Lopes
 Web Developer
 -------------
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm based in Brazil 🇧🇷
 * 🖥️  See my portfolio at [Twokei Website](http://twokei.store)
 * ✉️  You can contact me at [contato.pedrohenriquelopes@gmail.com](mailto:contato.pedrohenriquelopes@gmail.com)
 * 🧠  I'm learning NextJS
