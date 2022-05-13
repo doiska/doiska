@@ -1,7 +1,7 @@
 Hi 👋 My name is Pedro Lopes
 ============================
 
-Web Developer
+Fullstack Developer
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
@@ -9,6 +9,7 @@ Web Developer
 * ✉️  You can contact me at [contato.pedrohenriquelopes@gmail.com](mailto:contato.pedrohenriquelopes@gmail.com)
 * 🧠  Learning NextJS
 * 🤝  Open to collaborating on Discord Bots, Genshin Data Scraping
+* 🧬  Some soft skills: self-taught, proactive and communicative
 
 ### Skills
 
