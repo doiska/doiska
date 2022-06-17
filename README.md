@@ -13,7 +13,7 @@ Fullstack Developer
 
 ### Projects
 
-* Phone: [huge and professional project. Twokei Phone is a FiveM phone resource written entirely in TypeScript, React, Node using Sequelize].(https://github.com/doiska/twokei-phone)
+* Phone: [huge and professional project. Twokei Phone is a FiveM phone resource written entirely in TypeScript, React, Node using Sequelize.](https://github.com/doiska/twokei-phone)
 * Gym app: [Exercise searching website - Pure React and Typescript with React Router V6 and RapidAPI](https://github.com/doiska/gym-app).
 * Tiktube API: [Small Youtube scrapping Rest API using ytdlp](https://github.com/doiska/tiktube-api)
 
