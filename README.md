@@ -5,7 +5,6 @@ Fullstack Developer
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
-* 🖥️  See my portfolio at [Twokei Website](http://twokei.website)
 * ✉️  You can contact me at [contato.pedrohenriquelopes@gmail.com](mailto:contato.pedrohenriquelopes@gmail.com)
 * 🧠  Learning NextJS
 * 🤝  Open to collaborating on Discord Bots, Genshin Data Scraping
