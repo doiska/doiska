@@ -12,7 +12,6 @@ Fullstack Developer
 
 ### Projects
 
-* Phone: [Twokei Phone is a FiveM phone resource written entirely in TypeScript, React with Recoil/RouterV6 and Node using Sequelize.](https://github.com/doiska/twokei-phone)
 * Gym app: [Exercise searching website - Pure React and Typescript with React Router V6 and RapidAPI](https://github.com/doiska/gym-app).
 * Tiktube API: [Small Youtube scrapping Rest API using ytdlp](https://github.com/doiska/tiktube-api)
 
