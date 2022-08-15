@@ -29,7 +29,7 @@ Fullstack Developer
 
 <a href="http://www.github.com/doiska"><img src="https://github-readme-streak-stats.herokuapp.com/?user=doiska&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doiska&theme=dark&langs_count=5)](https://github.com/doiska?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doiska&theme=dark&langs_count=3)](https://github.com/doiska?tab=repositories)
 
 ### Support Me
 
