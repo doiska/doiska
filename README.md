@@ -9,9 +9,12 @@ Fullstack Developer
 * 🧠  Learning NextJS
 * 🤝  Open to collaborating on Discord Bots, Genshin Data Scraping
 * 🧬  Some soft skills: self-taught, proactive and communicative
+* 🔥  Working under NDA
 
 ### Projects
-
+* Twokei Phone: Currently working on huge (but private) project for FiveM, a Phone resource written entirely in TypeScript and React, using TypeORM, Decorators and many others features.
+* Twokei Music: [Discord Music BOT with support for more than 700 media services with yt-dlp.](https://twokei.store/)
+* ESBuild FiveM: [Boilerplate for a project using ESBuild, TypeScript with Decorators and HMR Support](https://github.com/doiska/esbuild-fivem)
 * Gym app: [Exercise searching website - Pure React and Typescript with React Router V6 and RapidAPI](https://github.com/doiska/gym-app).
 * Tiktube API: [Small Youtube scrapping Rest API using ytdlp](https://github.com/doiska/tiktube-api)
 
