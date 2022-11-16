@@ -12,12 +12,14 @@ Fullstack Developer
 * 🔥  Working under NDA
 
 ### Projects
-* Twokei Phone: Currently working on huge (but private) project for FiveM, a Phone resource written entirely in TypeScript and React, using TypeORM, Decorators and many others features.
-* Twokei Music: [Discord Music BOT with support for more than 700 media services with yt-dlp.](https://github.com/doiska/twokei) [Invite](https://twokei.store)
-* ESBuild FiveM: [Boilerplate for a project using ESBuild, TypeScript with Decorators and HMR Support](https://github.com/doiska/esbuild-fivem)
+* Twokei Music: [Discord Music BOT with support for more than 700 media services with Shoukaku](https://github.com/doiska/twokei-next)
+* Scrapping ConsultaCA: [Crawler for https://consultaca.com using Puppeteer and Typescript](https://github.com/doiska/scrapping-consulta-ca)
 * Gym app: [Exercise searching website - Pure React and Typescript with React Router V6 and RapidAPI](https://github.com/doiska/gym-app).
 * Tiktube API: [Small Youtube scrapping Rest API using ytdlp](https://github.com/doiska/tiktube-api)
+* Bypass Twitter Shortener: [Small Script to bypass twitter ad shortener](https://github.com/doiska/twitter-shortener-bypass)
 
+### Contributions
+* [Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)
 
 ### Socials
 
