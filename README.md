@@ -5,7 +5,7 @@ Fullstack Developer
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
-* ✉️  You can contact me at [contato.pedrohenriquelopes@gmail.com](mailto:contato.pedrohenriquelopes@gmail.com)
+* ✉️  You can contact me at [contato.pedrohenriquelopes@gmail.com](mailto:contato.pedrohenriquelopes@gmail.com) or doiská#0001 (Discord)
 * 🧠  Learning NextJS
 * 🤝  Open to collaborating on Discord Bots, Genshin Data Scraping
 * 🧬  Some soft skills: self-taught, proactive and communicative
