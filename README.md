@@ -17,7 +17,7 @@ Fullstack Developer
 ### Contributions
 * [Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)
 * [Veloren - MMO Voxel RPG (Made in Rust-lang](https://gitlab.com/veloren/veloren)
-* 
+
 ### Socials
 
 * Discord: doiská#0001
