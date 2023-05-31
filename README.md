@@ -11,15 +11,23 @@ Fullstack Developer
 * 🔥  Working under NDA
 
 ### Projects
-* Twokei Music: [Discord Music BOT with support for more than 700 media services with Shoukaku](https://github.com/doiska/twokei-next)
-* Scrapping ConsultaCA: [Crawler for https://consultaca.com using Puppeteer and Typescript](https://github.com/doiska/scrapping-consulta-ca)
+* **Twokei Music**: [Discord Music BOT with support for more than 700 media services with Shoukaku](https://github.com/doiska/twokei-next)
+* **Twokei Phone**: [Huge FiveM resource made with TypeScript, React, Tailwind, Node and TypeORM](https://github.com/doiska/twokei-phone) 
+* **Ticket (Discord) Bot**: [Receive and answer tickets using brand new Discord Modals](https://github.com/doiska/store-ticket)
+* **Scrapping ConsultaCA**: [Crawler for https://consultaca.com using Puppeteer and Typescript](https://github.com/doiska/scrapping-consulta-ca)
+
+### Scripts
+* Twitter ADBypass: [Small script to skip twitter "t.co" domains](https://github.com/doiska/twitter-shortener-bypass)
 
 ### Contributions
 * **[Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)**
 * **[Veloren - MMO Voxel RPG (Made in Rust-lang)](https://gitlab.com/veloren/veloren)**
 
-### Socials
+### Extras
+* Extensive experience with **[iFood](https://ifood.com.br/) and [Rappi](https://rappi.com/) APIs**. 
+* Also some significant contributions to the [Rappi](https://rappi.com/) API testing.
 
+### Socials
 * Discord: doiská#0001
 * Email: me@doiska.dev
 
