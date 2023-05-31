@@ -15,8 +15,8 @@ Fullstack Developer
 * Scrapping ConsultaCA: [Crawler for https://consultaca.com using Puppeteer and Typescript](https://github.com/doiska/scrapping-consulta-ca)
 
 ### Contributions
-* [Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)
-* [Veloren - MMO Voxel RPG (Made in Rust-lang](https://gitlab.com/veloren/veloren)
+* **[Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)**
+* **[Veloren - MMO Voxel RPG (Made in Rust-lang)](https://gitlab.com/veloren/veloren)**
 
 ### Socials
 
