@@ -14,6 +14,7 @@ Fullstack Developer
 * **Twokei Music**: [Discord Music BOT with support for more than 700 media services with Shoukaku](https://github.com/doiska/twokei-next)
 * **Twokei Phone**: [Huge FiveM resource made with TypeScript, React, Tailwind, Node and TypeORM](https://github.com/doiska/twokei-phone) 
 * **Ticket (Discord) Bot**: [Receive and answer tickets using brand new Discord Modals](https://github.com/doiska/store-ticket)
+* **Express FS Router**: [A NextJS like File System Router (with slugs) for ExpressJS](https://github.com/doiska/express-router-fs)
 * **Scrapping ConsultaCA**: [Crawler for https://consultaca.com using Puppeteer and Typescript](https://github.com/doiska/scrapping-consulta-ca)
 
 ### Scripts
