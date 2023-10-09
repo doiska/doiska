@@ -13,7 +13,7 @@ Fullstack Developer
 ### Contributions
 * **[Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)**
 * **[Veloren - MMO Voxel RPG (Made in Rust-lang)](https://gitlab.com/veloren/veloren)**
-* **[Shoukaku - Lavalink wrapper](https://github.com/doiska/twokei-shoukaku)** 
+* **[(Fork) Shoukaku - Lavalink wrapper](https://github.com/doiska/twokei-shoukaku)** 
   
 ### Projects
 * **Twokei Music**: [Discord Music BOT (in 300+ servers - Production) using TypeScript, DrizzleORM](https://github.com/doiska/twokei-next)
