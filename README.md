@@ -8,6 +8,7 @@ Fullstack Developer
 * ✉️  You can contact me at [me@doiska.dev](mailto:me@doiska.dev) or doiská#0001 (Discord)
 * 🧠  Writing articles to my blog
 * 🤝  Open to collaborating on OSS
+* 🎵  Mainly developing [Twokei.com | My Discord Music Bot](https://twokei.com)
 
 ### Contributions
 * **[Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)**
