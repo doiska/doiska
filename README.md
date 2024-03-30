@@ -5,7 +5,7 @@ Fullstack Developer
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
-* ✉️  You can contact me at [me@doiska.dev](mailto:me@doiska.dev) or doiská#0001 (Discord)
+* ✉️  You can contact me at [doiska@proton.me](mailto:doiska@proton.me) or doiská#0001 (Discord)
 * 🧠  Writing articles to my blog
 * 🤝  Open to collaborating on OSS
 * 🎵  Mainly developing [Twokei.com | My Discord Music Bot](https://twokei.com)
