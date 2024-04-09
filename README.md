@@ -32,7 +32,7 @@ Fullstack Developer
 
 ### Socials
 * Discord: doiská#0001
-* Email: me@doiska.dev
+* Email: doiska@proton.me (or doiskka@gmail.com)
 
 ### Support Me
 
