@@ -16,7 +16,8 @@ Fullstack Developer
 * **[(Fork) Shoukaku - Lavalink wrapper](https://github.com/doiska/twokei-shoukaku)** 
   
 ### Projects
-* **Twokei Music (closed-source)**: [Discord Music (300+ servers (1000+ users) - Production) using TypeScript, DrizzleORM, AWS](https://twokei.com)
+* **Twokei Music**: [Discord Music (300+ servers (1000+ users) - Production) using TypeScript, DrizzleORM, AWS](https://twokei.com)
+* **Unreal Roleplay**: [A Tabletop RPG Game - WIP](https://github.com/doiska/unreal-roleplay)
 * **Twokei Phone**: [Huge FiveM resource made with TypeScript, React, Tailwind, Node and TypeORM](https://github.com/doiska/twokei-phone) 
 * **Ticket (Discord) Bot**: [Receive and answer tickets using brand new Discord Modals](https://github.com/doiska/store-ticket)
 * **Express FS Router**: [A NextJS like File System Router (with slugs) for ExpressJS](https://github.com/doiska/express-router-fs)
