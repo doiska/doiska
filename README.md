@@ -19,7 +19,7 @@ Fullstack Developer
 * **Twokei Music**: [Discord Music (300+ servers (1000+ users) - Production) using TypeScript, DrizzleORM, AWS](https://twokei.com)
 * **Discron.app**: [Easily share Discord Events through the web - WIP](https://www.discron.app/) ([Source](https://github.com/doiska/discron.app))
 * **Unreal Roleplay**: [A Tabletop RPG Game - WIP](https://github.com/doiska/unreal-roleplay)
-* **Soundboard**: [RPG Sounboard - Play music to all connected users](https://github.com/doiska/rpg-soundboard)
+* **RPG Soundboard**: [Play music to all connected users](https://github.com/doiska/rpg-soundboard)
 * **Twokei Phone**: [Huge FiveM resource made with TypeScript, React, Tailwind, Node and TypeORM](https://github.com/doiska/twokei-phone)
 * **Postgres GDrive** [Backup any postgres instance to your personal Google Drive](https://github.com/doiska/postgres-gdrive-backup) 
 * **Ticket (Discord) Bot**: [Receive and answer tickets using brand new Discord Modals](https://github.com/doiska/store-ticket)
