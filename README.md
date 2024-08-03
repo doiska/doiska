@@ -1,14 +1,12 @@
-Hi 👋 My name is Pedro Lopes
+Hi 👋
 ============================
 
 Fullstack Developer
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
-* ✉️  You can contact me at [doiska@proton.me](mailto:doiska@proton.me) or doiská#0001 (Discord)
-* 🧠  Writing articles to my blog
-* 🤝  Open to collaborating on OSS
-* 🎵  Mainly developing [Twokei.com | My Discord Music Bot](https://twokei.com)
+* ✉️  You can contact me at [pedro@twokei.com](mailto:pedro@twokei.com) or @doiska (Discord)
+* ⭐  Owner and Lead developer of [Twokei - IT Development and Consultancy](https://twokei.com)
 
 ### Contributions
 * **[Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)**
