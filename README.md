@@ -9,7 +9,7 @@ Fullstack Developer
 * ⭐  Owner and Lead developer of [Twokei - IT Development and Consultancy](https://twokei.com)
 
 ### Contributions
-* **[Ultra PKG Manager (alternative for NPM, Yarn and PNPM)](https://github.com/nachoaldamav/ultra)**
+* **[Ultra PKG Manager (NPM, Yarn and PNPM alternative)](https://github.com/nachoaldamav/ultra)**
 * **[Veloren - MMO Voxel RPG (Made in Rust-lang)](https://gitlab.com/veloren/veloren)**
 * **[(Fork) Shoukaku - Lavalink wrapper](https://github.com/doiska/twokei-shoukaku)** 
   
@@ -29,8 +29,8 @@ Fullstack Developer
 * Also some significant contributions to the [Rappi](https://rappi.com/) API testing.
 
 ### Socials
-* Discord: doiská#0001
-* Email: doiska@proton.me (or doiskka@gmail.com)
+* Discord: doiska
+* Email: pedro@twokei.com
 
 ### Support Me
 
